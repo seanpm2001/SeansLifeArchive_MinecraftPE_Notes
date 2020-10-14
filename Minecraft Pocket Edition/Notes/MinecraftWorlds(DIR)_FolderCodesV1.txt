@@ -1,0 +1,40 @@
+==================================================
+Folder codes
+
+This file makes an ease of use for browsing
+the various Minecraft worlds folder. This ID 
+list was established on December 27th 2019 to
+easily find the main city world (minecity2003)
+However something similar should have been do-
+ne before
+
+==================================================
+Wave A (Apple) codes (doesn't exist)
+
+This is the set of codes for Seans Minecraft
+worlds from 2011-2012
+
+==================================================
+Wave 0 (Apple) codes (recreation needed)
+
+This is the set of codes for Seans MinecraftPE
+worlds from 2012-2014
+
+==================================================
+Wave 1 (Android) codes (search coming soon)
+
+This is the set of codes for Seans MinecraftPE
+worlds from 2014-2019 (pre-July 2019)
+
+==================================================
+Wave 2 codes (Android) (Second MCPE backup set)
+
++nKZXRPIAAA= | MCPYE_BEDROCK_TEST1
+3hUlXT74VQA= | Farmtopia
+Hr8vXd5lnwA= | Minecity2003
+
+==================================================
+File versions:
+V1 - December 27th 2019
+V2 - Coming soon
+==================================================

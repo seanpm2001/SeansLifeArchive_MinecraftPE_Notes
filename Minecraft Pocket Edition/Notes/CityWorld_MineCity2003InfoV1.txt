@@ -1,0 +1,158 @@
+================================================
+Start of file
+================================================
+City world: Minecity2003
+
+about
+
+Minecity2003 is a city world that spans across a grassy superflat biome. It started out as a stone city only, but later on expanded to having new cities like an aquatic city, a hell city, a superhell city, an ender city, and more.
+
+================================================
+Stats
+Remake? False. This is a new world that was created in my Minecraft revival phase.
+World type: Superflat
+Seed: bedrock, dirt, dirt, grass
+Time played: over 400 hours combined
+==================================================
+Main players:
+seanwallawalla (owner)
+sinewyplot##### (owner/Microsoft account)
+fuzzylumpkin509 (Mitchell)
+---
+---
+---
+================================================
+World settings
+DoDaylightCycle off
+MobSpawning off
+MobGriefing off
+TNTExplodes off
+KeepInventory on
+allow cheats on
+Difficulty: easy
+DoWeatherCycle off
+ShowCoordinates on
+================================================
+
+Coordinates
+
+================================================
+
+Urban city
+
+Spawn (X = 0 Y = 4 Z = 0)
+City Hall entrance (X = 9 Y = 6 Z = 4)
+Mitchells Bank entrance (X = -4 Y = 6 Z = 22)
+Top of city hall (X = 14 Y = 255 Z = 21)
+Mitchells arcade entrance (X = 14 Y = 6 Z = -3)
+Bakery entrance (X = -5 Y = 6 Z = 3)
+Bar (X = 198 Y = 5 Z = -94)
+Bar alley (X = 184 Y = 8 Z = -102)
+Coal processing plant entrance (X = Y = Z = )
+Top of Mitchells bank (X = -12 Y = 18 Z = 7)
+Gold watchtower monument (X = -3 Y = 27 Z = -60)
+Sewage treatment center entrance (X = 3 Y = 5 Z = -35)
+Sewer main (X = -19 Y = 2 Z = -6)
+City Dump (X = 64 Y = 6 Z = -116)
+Storage center (X = 119 Y = 6  Z = -156)
+Mayors mansion (X = 3 Y = 6 Z = -99)
+Battle arena (X = -41 Y = 6 Z = -99)
+Train station entrance (X = Y = Z = )
+MCFC entrance (X = 42 Y = 6 Z = -81)
+MCFC top of bucket (X = -5 Y = 27 Z = -80)
+Music center (X = 153 Y = 6 Z = -123)
+Stonemason (X = 128 Y = 6 Z = -146)
+City pet store (X = -19 Y = 6 Z = 66)
+City aquarium entrance (X = 49 Y = 6 Z = -21)
+City hospital entrance (X = -57 Y = 5 Z = 18)
+City laboratory (X = 5 Y = 6 Z = 62)
+Prison entrance (X = -58 Y = 5 Z = -29)
+Jail entrance (X = 36 Y = 6 Z = 75)
+Englantis street house 1 (X = 49 Y = 6 Z = 80)
+Englantis street house 2 (X = 49 Y = 6 Z = 91)
+Englantis street house 3 (X = 49 Y = 6 Z = 103)
+Englantis street house 4 (X = 49 Y = 6 Z = 114)
+Englantis street house 5 (X = 49 Y = 6 Z = 125)
+Englantis street house 6 (X = 49 Y = 6 Z = 136)
+Englantis street house 7 (X = 49 Y = 6 Z = 147)
+City dog park (X = -38 Y = 5 Z = 76)
+City zoo (X = 99 Y = 6 Z = -35)
+Solar Powerplant (X = 66 Y = 6 Z = 6)
+Ice tunnel speedway entrance/exit city main (X = 51 Y = 5 Z = -5)
+Movie theatre (X = -9 Y = 6 Z = 75)
+City fire station (X = -56 Y = 5 Z = 77)
+City police station (X = -57 Y = 5 Z = 58)
+City library (X = -26 Y = 6 Z = -12)
+Smoothspruce apartments (X = -38 Y = 6 Z = 4)
+Mitchells pool (X = -41 Y = 5 Z = 69)
+Food storage center (X = 123 Y = 5 Z = -72)
+Weather and time center (X = 103 Y = 7 Z = -99)
+firsttime apartments entrance (X = 76 Y = 6 Z = -20)
+Ice tunnel speedway entrance/exit city part 1.2 (X = Y = Z = )  # Still need X, Y, and Z values
+Art museum (X = Y = Z = )  # Still need X, Y, and Z values
+World reset button old (X = Y = Z = )  # Still need X, Y, and Z values
+Crystal tower plot 1 (X = Y = Z = )  # Still need X, Y, and Z values
+City farm (X = Y = Z = )  # Still need X, Y, and Z values
+City amusement park (X = Y = Z = ) # Still need X, Y, and Z values
+Nether portal room (X = Y = Z = )  # Still need X, Y, and Z values
+End portal room (X = Y = Z = )  # Still need X, Y, and Z values
+
+================================================
+
+Mine zone
+
+Entrance 1 (X = 70 Y = 5 Z = 76)
+Entrance 2 (X = 2 Y = 8 Z = 159)
+Entrance 3 (X = -23 Y = 7 Z = 159)
+Entrance 4 (X = -54 Y = 6 Z = 159)
+Top island (X = 91 Y = 255 Z = 119)
+Map name indicator (X = -112 Y = 254 Z = 165)
+Coal delivery rail (X = 107 Y = 7 Z = 78)
+
+================================================
+
+Heaven
+
+Entrance tunnel (X = -1 Y = 243 Z = 112)
+Entrance (X = -142 Y = 244 Z = ) # Need a Z value
+
+================================================
+
+Super hell (Nether)
+
+Entrance (X = Y = Z = )  # Still need X, Y, and Z values
+
+================================================
+
+Aquatic city
+
+entrance (X = 200 Y = 6 Z = -108)
+Guardian pit 1 (X = 195 Y = 7 Z = -120)
+Trident sponge tower (X = 197 Y = 5 Z = -141)
+Drowned castle (X = 176 Y = 8 Z = -164)
+Prismarine pyramid (X = 205 Y = 6 Z = -182)
+
+================================================
+
+Hell City (overworld)
+
+Entrance (X = -131, Y = 6, Z = 72)
+
+================================================
+
+End city (End)
+
+Entrance (X = Y = Z = )  # Still need X, Y, and Z values
+Mayors vacation house  (X = ,Y = ,Z = ) # Still need X, Y, and Z values
+
+================================================
+
+Lobby
+
+Entrance 1 (X = 513 Y = 6 Z = -55)
+Urban city teleporter center (X = 558 Y = 6 Z = -43)
+Aquatic city telepoter center (X = 540 Y = 6 Z = -54)
+
+================================================
+End of file
+================================================

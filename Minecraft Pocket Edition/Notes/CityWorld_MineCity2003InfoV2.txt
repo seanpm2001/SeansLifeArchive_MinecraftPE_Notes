@@ -1,0 +1,189 @@
+================================================
+Start of file
+================================================
+City world: Minecity2003
+
+about
+
+Minecity2003 is a city world that spans across a grassy superflat biome. It started out as a stone city only, but later on expanded to having new cities like an aquatic city, a hell city, a superhell city, an ender city, and more.
+
+================================================
+
+Lore
+
+The Mine city was established in 2003. It was an urban city which development relied directly upon the worlds largest mine. The city hall was the first structure to get built. The mine was invisible to the city until the discovery of barrier blocks, and advanced scopes. The city uses the mine heavily for stone to use as smooth stone for the sidewalks, and coal and gold for the roads.
+Later on, some other cities came into play, and they set up restrictions on land. The urban city zone wanted to keep growing, but now it was cornered by an underworld city, a mine, and an aquatic city. It only has 2 more paths it can go through. The cities are soon to become friends.
+
+================================================
+
+Structures
+
+City hall - The first building. It is a giant stone block tower that is 50 stories tall and goes up to the top of the world. City plans and meetings occur inside. On the roof, there is a firework display that shoots 16 different kinds of fireworks at once.
+The structure is built mainly out of smooth stone, glowstone, and blue stained glass blocks. Other blocks in use include oak wood doors, soul sand, magma blocks, gold blocks, dispensers, redstone, iron trap doors, water, chests, and more.
+
+Fuzzylumpkin509 bank (Mitchells bank) - The second building in the city, and the first building constructed by Mitchell. It is a private bank for Mitchell to store his loot in. It is guarded, and has 2 floors. The structure is made out of rare blocks, including:
+diamond blocks, gold blocks, emerald blocks, dragon heads, and other blocks.
+
+================================================
+Stats
+Remake? False. This is a new world that was created in my Minecraft revival phase.
+World type: Superflat
+Seed: bedrock, dirt, dirt, grass
+Time played: over 400 hours combined
+Random Tick speed: 1 (Modified to 60 as of September 15th 2019)
+World theme: big cities
+Texture packs that look good: Modern MC, Classic MC
+Compatible with:
+Minecraft PE 1.11 (Android) (older builds are compatible with this version)
+Minecraft PE 1.12 (Android) (the latest builds, and some older builds are compatible with this version)
+==================================================
+Main players:
+seanwallawalla (owner)
+sinewyplot##### (owner/Microsoft account)
+fuzzylumpkin509 (Mitchell)
+---
+---
+---
+================================================
+World settings
+DoDaylightCycle off
+MobSpawning off
+MobGriefing off
+TNTExplodes off
+KeepInventory on
+allow cheats on
+Difficulty: easy
+DoWeatherCycle off
+ShowCoordinates on
+================================================
+
+Coordinates
+
+================================================
+
+Urban city
+
+Spawn (X = 0 Y = 4 Z = 0)
+City Hall entrance (X = 9 Y = 6 Z = 4)
+Mitchells Bank entrance (X = -4 Y = 6 Z = 22)
+Top of city hall (X = 14 Y = 255 Z = 21)
+Mitchells arcade entrance (X = 14 Y = 6 Z = -3)
+Bakery entrance (X = -5 Y = 6 Z = 3)
+Bar (X = 198 Y = 5 Z = -94)
+Bar alley (X = 184 Y = 8 Z = -102)
+Coal processing plant entrance (X = Y = Z = ) # Still need X, Y, and Z values
+Top of Mitchells bank (X = -12 Y = 18 Z = 7)
+Gold watchtower monument (X = -3 Y = 27 Z = -60)
+Sewage treatment center entrance (X = 3 Y = 5 Z = -35)
+Sewer main (X = -19 Y = 2 Z = -6)
+City Dump (X = 64 Y = 6 Z = -116)
+Storage center (X = 119 Y = 6  Z = -156)
+Mayors mansion (X = 3 Y = 6 Z = -99)
+Battle arena (X = -41 Y = 6 Z = -99)
+Train station entrance (X = Y = Z = ) # Still need X, Y, and Z values
+MCFC entrance (X = 42 Y = 6 Z = -81)
+MCFC top of bucket (X = -5 Y = 27 Z = -80)
+Music center (X = 153 Y = 6 Z = -123)
+Stonemason (X = 128 Y = 6 Z = -146)
+City pet store (X = -19 Y = 6 Z = 66)
+City aquarium entrance (X = 49 Y = 6 Z = -21)
+City hospital entrance (X = -57 Y = 5 Z = 18)
+City laboratory (X = 5 Y = 6 Z = 62)
+Prison entrance (X = -58 Y = 5 Z = -29)
+Jail entrance (X = 36 Y = 6 Z = 75)
+Englantis street house 1 (X = 49 Y = 6 Z = 80)
+Englantis street house 2 (X = 49 Y = 6 Z = 91)
+Englantis street house 3 (X = 49 Y = 6 Z = 103)
+Englantis street house 4 (X = 49 Y = 6 Z = 114)
+Englantis street house 5 (X = 49 Y = 6 Z = 125)
+Englantis street house 6 (X = 49 Y = 6 Z = 136)
+Englantis street house 7 (X = 49 Y = 6 Z = 147)
+City dog park (X = -38 Y = 5 Z = 76)
+City zoo (X = 99 Y = 6 Z = -35)
+Solar Powerplant (X = 66 Y = 6 Z = 6)
+Ice tunnel speedway entrance/exit city main (X = 51 Y = 5 Z = -5)
+Movie theatre (X = -9 Y = 6 Z = 75)
+City fire station (X = -56 Y = 5 Z = 77)
+City police station (X = -57 Y = 5 Z = 58)
+City library (X = -26 Y = 6 Z = -12)
+Smoothspruce apartments (X = -38 Y = 6 Z = 4)
+Mitchells pool (X = -41 Y = 5 Z = 69)
+Food storage center (X = 123 Y = 5 Z = -72)
+Weather and time center (X = 103 Y = 7 Z = -99)
+firsttime apartments entrance (X = 76 Y = 6 Z = -20)
+Ice tunnel speedway entrance/exit city part 1.2 (X = Y = Z = )  # Still need X, Y, and Z values
+Art museum (X = Y = Z = )  # Still need X, Y, and Z values
+World reset button old (X = Y = Z = )  # Still need X, Y, and Z values
+Crystal tower plot 1 (X = Y = Z = )  # Still need X, Y, and Z values
+City farm (X = Y = Z = )  # Still need X, Y, and Z values
+City amusement park (X = Y = Z = ) # Still need X, Y, and Z values
+Nether portal room (X = Y = Z = )  # Still need X, Y, and Z values
+End portal room (X = Y = Z = )  # Still need X, Y, and Z values
+
+================================================
+
+Mine zone
+
+Entrance 1 (X = 70 Y = 5 Z = 76)
+Entrance 2 (X = 2 Y = 8 Z = 159)
+Entrance 3 (X = -23 Y = 7 Z = 159)
+Entrance 4 (X = -54 Y = 6 Z = 159)
+Top island (X = 91 Y = 255 Z = 119)
+Map name indicator (X = -112 Y = 254 Z = 165)
+Coal delivery rail (X = 107 Y = 7 Z = 78)
+
+================================================
+
+Heaven
+
+Entrance tunnel (X = -1 Y = 243 Z = 112)
+Entrance (X = -142 Y = 244 Z = ) # Need a Z value
+
+================================================
+
+Super hell (Nether)
+
+Entrance (X = Y = Z = )  # Still need X, Y, and Z values
+
+================================================
+
+Aquatic city
+
+entrance (X = 200 Y = 6 Z = -108)
+Guardian pit 1 (X = 195 Y = 7 Z = -120)
+Trident sponge tower (X = 197 Y = 5 Z = -141)
+Drowned castle (X = 176 Y = 8 Z = -164)
+Prismarine pyramid (X = 205 Y = 6 Z = -182)
+
+================================================
+
+Hell City (overworld)
+
+Entrance (X = -131, Y = 6, Z = 72)
+
+================================================
+
+End city (End)
+
+Entrance (X = Y = Z = )  # Still need X, Y, and Z values
+Mayors vacation house  (X = ,Y = ,Z = ) # Still need X, Y, and Z values
+
+================================================
+
+Lobby
+
+Entrance 1 (X = 513 Y = 6 Z = -55)
+Urban city teleporter center (X = 558 Y = 6 Z = -43)
+Aquatic city telepoter center (X = 540 Y = 6 Z = -54)
+
+================================================
+
+Lobby teleporter
+
+September 15th 2019
+Implemented all Aquatic city teleport zones
+Implemented all city mine teleport zones
+Implemented urban city teleport areas up to prison entrance, however, the train station and coal processing plan haven't been listed yet
+================================================
+End of file
+================================================

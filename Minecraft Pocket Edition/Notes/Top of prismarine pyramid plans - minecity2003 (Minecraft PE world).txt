@@ -1,0 +1,14 @@
+Top of prismarine pyramid plans - minecity2003 (Minecraft PE world)
+
+The pyramid is going to go to the build limit of the overworld (Y=256) From a lot of work in the past 2 weeks, I have gotten significantly closer to the top. So I have to prepare the final piece
+
+Top 3 blocks:
+lantern Y = 256
+wet sponge Y = 255
+prismarine and dark prismarine Y = 254
+The prismarine will be 7 by 7 blocks, and will have a funnel design. Do NOT use ice or other blocks to make the funnel flat, I want it to be like a whirlpool
+At the ground, there will be a 5x5 X Z and 5 Y container, with 9 magma blocks to create an downward stream from the top
+ 
+Start at the last 8 blocks with this piece
+
+Will do Today (September 26th 2019) or tomorrow (September 27th 2019) depending on how much time I have.

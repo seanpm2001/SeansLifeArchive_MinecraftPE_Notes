@@ -1,0 +1,22 @@
+City world building standard 2 - Grass path dirt protection
+
+Came into effect: January 5th 2020
+Applies to: structures using grass paths (shovel + grass block)
+
+The new grass path standard is a quickly passed standard thought of and patched in less than 20 minutes by Sean Walla Walla (Sean Patrick Myrick)
+the standard makes it so less accidents with other blocks will occur with grass paths. This standard is for the protection of the path blocks being destroyed by another block going on top of them.
+Certain blocks can be placed on top to protect them, this standard requires that grass paths be protected.
+
+Blocks needed:
+torches
+redstone torches
+sea pickle
+lantern
+string ?
+end rod
+
+Exceptions:
+Structures that autogenerate grass paths and repair them do not need to fit to this standard as long as they are always replaced automatically.
+
+File version: 1 (January 5th 2020)
+First version: 1 (January 5th 2020)

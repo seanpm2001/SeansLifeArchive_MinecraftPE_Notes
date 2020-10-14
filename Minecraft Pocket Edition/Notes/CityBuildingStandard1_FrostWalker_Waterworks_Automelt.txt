@@ -1,0 +1,26 @@
+City world building standard 1 - Frost walking waterworks automelt policy
+
+Came into effect: January 5th 2020
+Applies to: structures using water blocks
+
+The new waterworks standard is a building standard for the city world that requires that structures with water can automatically melt themselves automatically.
+When a player uses frost walker boots, in dark unlit areas, the ice will stay behind indefinitely. This new standard helps fix this.
+Instead of constantly placing torches on ice blocks caused by frost walking, or breaking them in survival mode each time, this standard hopes that the user surround the body of water with lights.
+This standard must be tested with Frost Walker II or higher boots
+
+Blocks needed:
+torches
+redstone torches
+redstone lamp
+lantern
+sea lantern
+glowstone
+lava
+end rod
+etc.
+
+Exceptions:
+Certain structures that are in pure sunlight can opt out of this change, but it is not recommended, as sometimes the city is in night mode
+
+File version: 1 (January 5th 2020)
+First version: 1 (January 5th 2020)

@@ -1,0 +1,18 @@
+===========================================================================================================================================================================================================================
+About: SpokaneTaigaSurvival
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This world is a recreation of an older survival world I had on my old Android phone. This world was originally created around 2015-2017, however I am not 100% sure of the date at the moment.
+This world wasn't developed that heavily, as I built it near the end of a car trip to a doctors appointment in Spokane. I only had a few hours to work on it, and on top of that, it was a survival world.
+Even though this world didn't get much development, I am very fond of this world. The mix of the snowy Taiga Bay on a trip to Spokane in the winter time.
+This was the first world that I have recreated in the process of recreating Minecraft worlds.
+Due to recent updates, some things are going to have to be removed, including:
+* Moss stone boulders
+* Seaweed
+I managed to find a location that was almost exact, and recreate the beginning on July 30th 2019 on my 45th Minecraft PE backup.
+This world might not take too long to develop, but the memories will be fulfilled again. This is only the first world that I am going to recreate. There are still hundreds to go.
+World seed: Taiga Bay
+Gamemode: survival
+I modified it a little bit, and allowed some cheats, for example, keeping inventory, mob griefing off, fire spreading off, and TNT explosions off.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+End of info
+===========================================================================================================================================================================================================================

@@ -1,0 +1,9 @@
+Minecraft Pocket Edition backup method
+1) zip the games>>com.mojang directory
+2) move backup to separate directory
+3) unzip the backup
+4) delete the zip file
+5) delete the resource_files directory to remove over 70 megabytes of unnecessary music for the backup
+6) zip directory
+7) delete directory, keep zip file
+8) upload zip file
